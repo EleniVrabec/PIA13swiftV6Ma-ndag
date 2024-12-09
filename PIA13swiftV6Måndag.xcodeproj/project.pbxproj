@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		941EC1F02D06E04C00D72382 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 941EC1EE2D06E03100D72382 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		941EC1DB2D06DD7F00D72382 /* PIA13swiftV6Måndag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PIA13swiftV6Måndag.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		941EC1EE2D06E03100D72382 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		941EC1D22D06DD7F00D72382 = {
 			isa = PBXGroup;
 			children = (
+				941EC1EE2D06E03100D72382 /* .gitignore */,
 				941EC1DD2D06DD7F00D72382 /* PIA13swiftV6Måndag */,
 				941EC1DC2D06DD7F00D72382 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				941EC1F02D06E04C00D72382 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
